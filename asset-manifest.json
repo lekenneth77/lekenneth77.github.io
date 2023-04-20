@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea655f30.css",
+    "main.js": "/static/js/main.849e185f.js",
+    "static/js/787.7c7412e9.chunk.js": "/static/js/787.7c7412e9.chunk.js",
+    "static/media/big_handlebar.jpg": "/static/media/big_handlebar.dfb05a9358ebfff24b56.jpg",
+    "static/media/title_kimono.png": "/static/media/title_kimono.eb616a3edfd93c3e934c.png",
+    "static/media/title_shinshi.jpg": "/static/media/title_shinshi.6f8b1840b2035459cebe.jpg",
+    "static/media/title_soushi.jpg": "/static/media/title_soushi.af8f86c0236d29c8928a.jpg",
+    "index.html": "/index.html",
+    "main.ea655f30.css.map": "/static/css/main.ea655f30.css.map",
+    "main.849e185f.js.map": "/static/js/main.849e185f.js.map",
+    "787.7c7412e9.chunk.js.map": "/static/js/787.7c7412e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea655f30.css",
+    "static/js/main.849e185f.js"
+  ]
+}
