@@ -1,19 +1,41 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea655f30.css",
-    "main.js": "/static/js/main.849e185f.js",
+    "main.css": "/static/css/main.780ab81f.css",
+    "main.js": "/static/js/main.9fcf1449.js",
     "static/js/787.7c7412e9.chunk.js": "/static/js/787.7c7412e9.chunk.js",
+    "static/media/bowlerhat.jpg": "/static/media/bowlerhat.f36855b51026ff53a219.jpg",
+    "static/media/kimono_banner.png": "/static/media/kimono_banner.2724cc13fb3881e322db.png",
+    "static/media/lit_banner.jpg": "/static/media/lit_banner.3e3610f8fc08a243423f.jpg",
+    "static/media/samurai.png": "/static/media/samurai.7efd5fd7821f8d01688b.png",
+    "static/media/marumaru.jpg": "/static/media/marumaru.58cf8ab9de600ba94b38.jpg",
+    "static/media/silkhat.jpg": "/static/media/silkhat.b9a74e7b9dafee8c4520.jpg",
     "static/media/big_handlebar.jpg": "/static/media/big_handlebar.dfb05a9358ebfff24b56.jpg",
+    "static/media/nice_men.png": "/static/media/nice_men.d770e2e42b9bc140028f.png",
+    "static/media/seiyo.jpg": "/static/media/seiyo.c19bd5354353a57d40cb.jpg",
+    "static/media/gentlemen_book.jpg": "/static/media/gentlemen_book.ca0e5fc60b91164fec20.jpg",
     "static/media/title_kimono.png": "/static/media/title_kimono.eb616a3edfd93c3e934c.png",
+    "static/media/suit_banner.jpg": "/static/media/suit_banner.6e16924e138b110664fe.jpg",
+    "static/media/emperor_suit.jpg": "/static/media/emperor_suit.24b3089a2793216dbd2c.jpg",
+    "static/media/magazine_banner.jpg": "/static/media/magazine_banner.62ccaf84c18e1d6edb53.jpg",
+    "static/media/group_samurai.jpg": "/static/media/group_samurai.2ce801f123f8eb7c1ae3.jpg",
+    "static/media/more_samurai.jpg": "/static/media/more_samurai.b93521d6a424c1822c32.jpg",
+    "static/media/tattered_kimono.jpg": "/static/media/tattered_kimono.fad9cdf19dfbc8d9f2cf.jpg",
+    "static/media/hat_banner.jpg": "/static/media/hat_banner.2a9555b73baace8dd3f4.jpg",
+    "static/media/geta_banner.jpg": "/static/media/geta_banner.2a0e8925df700af6c09f.jpg",
+    "static/media/geta.jpg": "/static/media/geta.359a83fd8bb6b7bae441.jpg",
+    "static/media/group.jpg": "/static/media/group.17b8cfb9a646ef2c1ab2.jpg",
     "static/media/title_shinshi.jpg": "/static/media/title_shinshi.6f8b1840b2035459cebe.jpg",
+    "static/media/court.jpg": "/static/media/court.d33cfb4f39a83e33c000.jpg",
+    "static/media/nice_suit.jpg": "/static/media/nice_suit.30e139fcdfbf8a2d4136.jpg",
+    "static/media/japanlab.png": "/static/media/japanlab.71e239b2395d4d0caaca.png",
     "static/media/title_soushi.jpg": "/static/media/title_soushi.af8f86c0236d29c8928a.jpg",
     "index.html": "/index.html",
-    "main.ea655f30.css.map": "/static/css/main.ea655f30.css.map",
-    "main.849e185f.js.map": "/static/js/main.849e185f.js.map",
+    "main.780ab81f.css.map": "/static/css/main.780ab81f.css.map",
+    "main.9fcf1449.js.map": "/static/js/main.9fcf1449.js.map",
     "787.7c7412e9.chunk.js.map": "/static/js/787.7c7412e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea655f30.css",
-    "static/js/main.849e185f.js"
+    "static/css/main.780ab81f.css",
+    "static/js/main.9fcf1449.js"
   ]
 }
